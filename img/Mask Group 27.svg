@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="28" viewBox="0 0 29 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="29" height="28" transform="translate(-0.425 0.493)" fill="#b3b0ad"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_27" data-name="Mask Group 27" transform="translate(0.425 -0.493)" clip-path="url(#clip-path)">
+    <g id="grid-2-vertical-svgrepo-com" transform="translate(0 0)">
+      <path id="Path_330" data-name="Path 330" d="M7.716,6.541H18.684a1.175,1.175,0,0,1,1.175,1.175V34.352a1.175,1.175,0,0,1-1.175,1.175H7.716a1.175,1.175,0,0,1-1.175-1.175V7.716A1.175,1.175,0,0,1,7.716,6.541Zm9.793,2.35H8.891V33.177h8.618Z" transform="translate(-6.541 -6.541)" fill="#b3b0ad"/>
+      <path id="Path_331" data-name="Path 331" d="M31.5,6.541H42.467a1.175,1.175,0,0,1,1.175,1.175V34.352a1.175,1.175,0,0,1-1.175,1.175H31.5a1.175,1.175,0,0,1-1.175-1.175V7.716A1.175,1.175,0,0,1,31.5,6.541Zm9.793,2.35H32.675V33.177h8.618Z" transform="translate(-14.656 -6.541)" fill="#b3b0ad"/>
+    </g>
+  </g>
+</svg>

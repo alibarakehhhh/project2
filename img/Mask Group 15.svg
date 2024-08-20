@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="28" height="28" transform="translate(224 2989)" fill="#668e98"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(-224 -2989)" clip-path="url(#clip-path)">
+    <path id="shower-svgrepo-com" d="M21.765,10.311a5.093,5.093,0,0,0-3.947,4.962v1.273H28V15.273a5.093,5.093,0,0,0-3.593-4.867,2.546,2.546,0,0,1,4.866,1.049V21.636H7.636v2.545H8.909v6.364a3.818,3.818,0,0,0,3.818,3.818H28a3.818,3.818,0,0,0,3.818-3.818V24.182h1.273V21.636H31.818V11.455a5.092,5.092,0,0,0-10.053-1.144ZM11.455,24.182H29.273v6.364A1.273,1.273,0,0,1,28,31.818H12.727a1.273,1.273,0,0,1-1.273-1.273ZM22.909,12.727A2.544,2.544,0,0,1,25.114,14H20.7A2.544,2.544,0,0,1,22.909,12.727Z" transform="translate(217.636 2982.636)" fill="#668e98" fill-rule="evenodd"/>
+  </g>
+</svg>

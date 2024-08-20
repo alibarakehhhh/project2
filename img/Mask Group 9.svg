@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="92" height="92" transform="translate(345 1998)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(-345 -1998)" clip-path="url(#clip-path)">
+    <g id="calendar-minimalistic-svgrepo-com" transform="translate(339.651 1991.582)">
+      <path id="Path_314" data-name="Path 314" d="M59.907,94.14H42.791c-16.137,0-24.206,0-29.219-5.013S8.558,76.044,8.558,59.907V51.349c0-16.137,0-24.206,5.013-29.219s13.082-5.013,29.219-5.013H59.907c16.137,0,24.206,0,29.219,5.013S94.14,35.211,94.14,51.349v8.558c0,16.137,0,24.206-5.013,29.219-2.8,2.8-6.54,4.032-12.1,4.579" fill="none" stroke="#f7f7f7" stroke-linecap="round" stroke-width="6.419"/>
+      <path id="Path_315" data-name="Path 315" d="M29.953,17.116V10.7" fill="none" stroke="#f7f7f7" stroke-linecap="round" stroke-width="6.419"/>
+      <path id="Path_316" data-name="Path 316" d="M72.744,17.116V10.7" fill="none" stroke="#f7f7f7" stroke-linecap="round" stroke-width="6.419"/>
+      <path id="Path_317" data-name="Path 317" d="M92,38.512H46m-37.442,0H25.14" fill="none" stroke="#f7f7f7" stroke-linecap="round" stroke-width="6.419"/>
+    </g>
+  </g>
+</svg>

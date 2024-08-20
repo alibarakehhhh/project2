@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="28" height="28" transform="translate(160 2989)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(-160 -2989)" clip-path="url(#clip-path)">
+    <g id="bed-svgrepo-com" transform="translate(158.372 2987.372)">
+      <path id="Path_321" data-name="Path 321" d="M24.744,26.047V24.093M6.512,26.047V24.093" fill="none" stroke="#668e98" stroke-linecap="round" stroke-width="1.953"/>
+      <path id="Path_322" data-name="Path 322" d="M2.6,19.535a6.5,6.5,0,0,1,.2-2.3,2.6,2.6,0,0,1,1.41-1.41,6.5,6.5,0,0,1,2.3-.2H24.744a6.5,6.5,0,0,1,2.3.2,2.605,2.605,0,0,1,1.41,1.41,6.5,6.5,0,0,1,.2,2.3,6.5,6.5,0,0,1-.2,2.3,2.605,2.605,0,0,1-1.41,1.41,6.5,6.5,0,0,1-2.3.2H6.512a6.5,6.5,0,0,1-2.3-.2,2.6,2.6,0,0,1-1.41-1.41A6.5,6.5,0,0,1,2.6,19.535Z" fill="none" stroke="#668e98" stroke-width="1.953"/>
+      <path id="Path_323" data-name="Path 323" d="M27.349,15.628c0-4.911,0-7.367-1.526-8.893S21.842,5.209,16.93,5.209h-2.6c-4.911,0-7.367,0-8.893,1.526s-1.526,3.981-1.526,8.893" fill="none" stroke="#668e98" stroke-width="1.953"/>
+      <path id="Path_324" data-name="Path 324" d="M24.093,15.628V13.674c0-2.456,0-3.684-.763-4.446s-1.991-.763-4.446-.763H12.372c-2.456,0-3.684,0-4.446.763s-.763,1.991-.763,4.446v1.953" fill="none" stroke="#668e98" stroke-width="1.953"/>
+      <path id="Path_325" data-name="Path 325" d="M15.628,9.116v6.512" fill="none" stroke="#668e98" stroke-width="1.953"/>
+    </g>
+  </g>
+</svg>
